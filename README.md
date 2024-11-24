@@ -76,7 +76,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
+- [X] [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
 
 - [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
